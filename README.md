@@ -15,7 +15,7 @@ Focus Questions:
 - Which race has a high percentage of drug related deaths?
 - Which gender has a higher percentage of drug related deaths?
 - Which age groups seem to face a high risk of drug related deaths?
-- 
+- Which city seem to face the most drug-related deaths in CT from 2015-18?
 
 _Which particular drug is the leading cause of death in drug overdoses?_
 ![DeathTotalBarGraph](https://github.com/Elevate04/Team_5_Project/assets/136443525/3cb226fd-3268-48aa-8abe-9277c08acfb2)
