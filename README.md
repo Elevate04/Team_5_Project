@@ -58,8 +58,7 @@ Findings:
 _Which city seem to face the most drug-related deaths in CT from 2015-18?_
 ![DeathMap](https://github.com/Elevate04/Team_5_Project/assets/136443525/1a0500f3-9af9-4984-b348-64672ded7cfd)
 
-Findings:
-- 
+
 
 
 
